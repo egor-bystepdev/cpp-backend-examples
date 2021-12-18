@@ -16,3 +16,5 @@ auto prod_server = BindFront(test, prod_server_settings);
 test_server(data);
 prod_server(prod_server_keys, data);
 ```
+
+Запрещено использовать std::bind\_front и std::bind
