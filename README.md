@@ -41,7 +41,7 @@
 * [fold](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/fold)
 
 ### Patterns
-* [any](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/any)
+* [any (std::any)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/any)
 * [editor](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/editor)
 * [immutable-vector](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/immutable-vector)
 * [small-test-framework](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/small-test-framework)
