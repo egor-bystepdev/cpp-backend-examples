@@ -45,3 +45,9 @@
 * [editor](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/editor)
 * [immutable-vector](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/immutable-vector)
 * [small-test-framework](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/small-test-framework)
+
+
+### Constexpr
+* [constexpr_map](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/constexpr/constexpr_map)
+* [transform-tuple](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/constexpr/transform-tuple)
+* [pipes (ranges)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/constexpr/pipes)
