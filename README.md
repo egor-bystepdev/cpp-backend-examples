@@ -34,3 +34,14 @@
 * [lru-cache](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/lru-cache)
 * [callback](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/callback)
 * [cow-vector](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/cow-vector)
+
+### Types
+* [bind-front](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/bind-front)
+* [curry](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/curry)
+* [fold](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/fold)
+
+### Patterns
+* [any](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/any)
+* [editor](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/editor)
+* [immutable-vector](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/immutable-vector)
+* [small-test-framework](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/patterns/small-test-framework)
