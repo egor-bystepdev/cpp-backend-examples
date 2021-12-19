@@ -26,4 +26,4 @@
 
 
 
-* [### Jpeg-decoder (baseline)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
+### [Jpeg-decoder (baseline)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
