@@ -20,3 +20,6 @@
 #### Other
 * [hash_map](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/hash_map)
 * [subset-sum](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/subset-sum)
+
+### Smart-ptrs
+* [smart-ptrs (unique, shared, weak, shared_from_this)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/smart-ptrs)
