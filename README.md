@@ -23,6 +23,6 @@
 
 #### [Smart-ptrs (unique, shared, weak, shared_from_this)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
 
-### [Jpeg-decoder (baseline)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
+#### [Jpeg-decoder (baseline)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
 
-### [Matrix](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/matrix)
+#### [Matrix](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/matrix)
