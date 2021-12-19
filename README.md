@@ -26,3 +26,11 @@
 #### [Jpeg-decoder (baseline)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/smart-ptrs)
 
 #### [Matrix](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/matrix)
+
+### Memory
+
+* [compressed_pair](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/compressed_pair)
+* [intrusive-list](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/intrusive-list)
+* [lru-cache](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/lru-cache)
+* [callback](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/callback)
+* [cow-vector](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/memory/cow-vector)
