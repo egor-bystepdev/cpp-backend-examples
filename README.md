@@ -10,12 +10,12 @@
 * [semaphore](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/semaphore)
 * [buffered-channel](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/buffered-channel)
 * [unbuffered-channel](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/unbuffered-channel)
-#### Lock-free containers
+##### Lock-free containers (mpmc)
 * [fast-queue](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/fast-queue)
 * [fast-stack](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/fast-stack)
-#### Coroutine
+##### Coroutine
 * [coroutine](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/coroutine)
 * [generator (аналог python yield)](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/generator)
-#### Other
+##### Other
 * [hash_map](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/hash_map)
 * [subset-sum](https://github.com/egor-bystepdev/cpp-backend-examples/tree/main/threads/subset-sum)
