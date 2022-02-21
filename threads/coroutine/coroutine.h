@@ -53,7 +53,7 @@ private:
 
 void suspend() {
     if (!current_coroutine) {
-        throw std::runtime_error("nothinh to suspend");
+        throw std::runtime_error("nothing to suspend");
     }
     current_coroutine->suspend();
 }
