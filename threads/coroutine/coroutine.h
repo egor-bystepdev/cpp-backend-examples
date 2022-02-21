@@ -53,8 +53,7 @@ private:
 
 void suspend() {
     if (!current_coroutine) {
-        std::cout << "whar" << std::endl;
-        throw std::runtime_error("flex");
+        throw std::runtime_error("nothinh to suspend");
     }
     current_coroutine->suspend();
 }
